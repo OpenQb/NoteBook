@@ -1,0 +1,20 @@
+{
+    "name"			: "NoteBook",
+	"version"		: "1.0.0",
+	"build"         : 1,
+    "namespace"		: "com.github.openqb.NoteBook",
+	
+	"supportedOs"   : ["android","ios","osx","windows","linux"],
+
+	"category"      : "Application",
+	"subCategory"   : "Productivity",
+	"genre"   		: "Productivity",
+	
+    "runtimeMode"   : "ZPACK",
+    "minQbVersion"  : "1",
+
+    "description"   : "NoteBook is a simple software to store notes",
+
+    "author"		: [{"name":"KAWSER","link":"https://github.com/mkawserm"}],
+    "projectLink"	: [{"name":"GitHub","link":"https://github.com/OpenQb/NoteBook"}]
+}
